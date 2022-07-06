@@ -21,7 +21,6 @@ state={
 
 		}
 		add_core_of = WIO
-		add_claim_by = BUL
 	}
 
 	provinces={

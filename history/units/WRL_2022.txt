@@ -1,0 +1,7 @@
+﻿division_template = {
+	name = "Biedna Pierdolona Piechota"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+	}
+}

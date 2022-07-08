@@ -34,6 +34,7 @@ state={
 			}
 		}
 		add_core_of = WRS
+		add_core_of = SFR
 		1939.1.1 = {
 			buildings = {
 				dockyard = 3

@@ -25,6 +25,7 @@ state=
 			}
 		}
 		add_core_of = SFR
+		add_cores_of = WRS 
 	}
 	provinces=
 	{

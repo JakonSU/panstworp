@@ -1,6 +1,6 @@
 capital = 66 #Poznan
 
-#oob = "WRL_2022"
+oob = "WRL_2022"
 
 set_research_slots = 3
 

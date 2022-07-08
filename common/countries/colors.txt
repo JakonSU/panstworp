@@ -888,3 +888,7 @@ ZSA = {
 	color = rgb { 222 247 198 }
 	color_ui = rgb { 222 247 198 }
 }
+ANA = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
+}

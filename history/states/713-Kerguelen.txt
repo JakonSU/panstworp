@@ -1,3 +1,4 @@
+
 state={
 	id=713
 	name="STATE_713"
@@ -5,7 +6,7 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = FRA
+		owner = NAT
 		buildings = {
 			infrastructure = 1
 			2165 = {

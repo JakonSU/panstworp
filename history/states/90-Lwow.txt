@@ -19,11 +19,11 @@ state={
 		#victory_points = {
 		#	562 3
 		#}
-		owner = NIR
+		owner = ORL
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = NIR
+		add_core_of = ORL
 	}
 
 	provinces={

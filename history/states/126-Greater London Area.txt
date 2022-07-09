@@ -23,6 +23,7 @@ state={
 			}
 		}
 		add_core_of = OCE
+		add_core_of = ABB
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 4

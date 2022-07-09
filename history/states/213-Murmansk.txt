@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = PRL
 		victory_points = {
 			3134 5 
 		}
@@ -26,6 +26,7 @@ state={
 			}
 		}
 		add_core_of = SOV
+		add_core_of = PRL
 	}
 
 	provinces={

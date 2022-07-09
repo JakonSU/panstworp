@@ -1,4 +1,4 @@
-capital = 66 #Poznan
+capital = 808
 
 oob = "WRL_2022"
 

@@ -21,6 +21,7 @@ state= {
 
 		}
 		add_core_of = OCE
+		add_core_of = ABB
 	}
 
 	provinces= {

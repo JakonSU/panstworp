@@ -2649,6 +2649,19 @@ leader_traits = {
 			}
 		}
 	}
+	centric_demagogue = {
+		random = no
+		# Boosts centric
+		sprite = 13
+		centric_drift = 0.1
+		
+		ai_will_do = {
+			factor = 1
+			modifier = { 
+				factor = 0
+			}
+		}
+	}
 	staunch_monarchist = {
 		random = no
 		# Boosts Unaligned

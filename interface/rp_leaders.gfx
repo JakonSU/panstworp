@@ -1,0 +1,6 @@
+spiriteTypes = {
+	spriteType = {
+		name = "GFX_opos"
+		texturefile = "gfx/leaders/ABB/opos.dds"
+	}
+}

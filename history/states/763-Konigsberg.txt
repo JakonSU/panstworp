@@ -6,8 +6,8 @@ state={
 	state_category = city
 
 	history={
-		owner = NIR
-		controller = NIR
+		owner = ORL
+		controller = ORL
 		
 		victory_points = {
 			6332 10 

@@ -18,7 +18,7 @@ state={
 			}
 		}
 		add_core_of = SFR
-		add_cores_of = WRS 
+		add_core_of = WRS
 	}
 
 	provinces={

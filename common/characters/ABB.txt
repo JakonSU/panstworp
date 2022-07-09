@@ -1,0 +1,16 @@
+characters = {
+	ABB_united_oposition = {
+		name = "Zjednoczona Opozycja" 
+		portraits = {
+			civilian = {
+				large = GFX_opos
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire = "2000.1.1.1"
+			id = -1
+		}
+	}
+}
+	

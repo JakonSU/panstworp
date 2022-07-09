@@ -8,8 +8,8 @@ state=
 	
 	history=
 	{
-		owner = NIR
-		add_core_of = NIR
+		owner = PRZ
+		add_core_of = PRZ
 		buildings = {
 			infrastructure = 3 #was: 6
 			408 = {

@@ -839,7 +839,7 @@ KWE = {
 	color = rgb { 31 120 180 }
 	color_ui = rgb { 31 120 180 }
 }
-NIR = { color 	 = rgb { 217 180 1 }
+ORL = { color 	 = rgb { 217 180 1 }
 	color_ui = rgb { 217 180 1 }
 }
 OCE = {	color = rgb { 127 1 1 }
@@ -891,4 +891,24 @@ ZSA = {
 ANA = {
 	color = rgb { 255 0 0 }
 	color_ui = rgb { 255 0 0 }
+}
+NAT = {
+	color = rgb { 1 1 1 }
+	color_ui = rgb { 1 1 1 }
+}
+ABB = {
+	color = rgb { 12 244 12 }
+	color_ui = rgb { 12 244 12 }
+}
+PRZ = {
+	color = rgb { 177 0 255 }
+	color_ui = rgb { 177 0 255 }
+}
+GRZ = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+FJA = {
+	color = rgb { 177 244 12 }
+	color_ui = rgb { 177 244 12 }
 }
